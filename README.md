@@ -16,4 +16,12 @@ Wow, you checked :+1:
 
 The URL in the formula gives a 404. This URL should work, and is taken from the official site: https://downloads.mariadb.com/Connectors/c/connector-c-2.2.2
 
-Other 2.x versions might work. Or they might not ¯\_(ツ)_/¯
+Other 2.x versions might work. Or they might not ¯\\\_(ツ)\_/¯
+
+## I don't ever run code via the net!
+
+:thinking: A strange thing to say if you running brew... But ok, you can [download the formula](https://raw.githubusercontent.com/frnhr/homebrew-mariadb-connector-c-2/master/Formula/mariadb-connector-c.rb), and build it locally:
+```
+$ brew install --build-from-source path/to/donwloaded/mariadb-connector-c.rb
+```
+Don't rename the file, though, brew seems to not like that.
