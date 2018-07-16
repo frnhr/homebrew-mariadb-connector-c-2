@@ -18,7 +18,7 @@ The URL in the formula gives a 404. This URL should work, and is taken from the 
 
 Other 2.x versions might work. Or they might not ¯\\\_(ツ)\_/¯
 
-## I don't ever run code via the net!
+## I don't ever run other people's code like that!
 
 :thinking: A strange thing to say if you running brew... But ok, you can [download the formula](https://raw.githubusercontent.com/frnhr/homebrew-mariadb-connector-c-2/master/Formula/mariadb-connector-c.rb), and build it locally:
 ```
