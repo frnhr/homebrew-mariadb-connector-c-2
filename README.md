@@ -18,6 +18,8 @@ The URL in the formula gives a 404. This URL should work, and is taken from the 
 
 Other 2.x versions might work. Or they might not ¯\\\_(ツ)\_/¯
 
+Here is the original formula: https://github.com/Homebrew/homebrew-core/blob/1ea62184de8410f2c8b3fb89ea1cc573fc9c4f92/Formula/mariadb-connector-c.rb
+
 ## I don't ever run other people's code like that!
 
 :thinking: A strange thing to say if you running brew... But ok, you can [download the formula](https://raw.githubusercontent.com/frnhr/homebrew-mariadb-connector-c-2/master/Formula/mariadb-connector-c.rb), and build it locally:
